@@ -1,0 +1,122 @@
+{
+  "American Crow": {
+    "baseline": 0.4666666666666667,
+    "enhanced": 0.4
+  },
+  "Black footed Albatross": {
+    "baseline": 0.8666666666666667,
+    "enhanced": 0.7333333333333333
+  },
+  "Bobolink": {
+    "baseline": 0.8666666666666667,
+    "enhanced": 1.0
+  },
+  "Brandt Cormorant": {
+    "baseline": 0.4,
+    "enhanced": 0.13333333333333333
+  },
+  "Brewer Blackbird": {
+    "baseline": 0.13333333333333333,
+    "enhanced": 0.13333333333333333
+  },
+  "Bronzed Cowbird": {
+    "baseline": 0.13333333333333333,
+    "enhanced": 0.0
+  },
+  "Brown Creeper": {
+    "baseline": 1.0,
+    "enhanced": 1.0
+  },
+  "Cardinal": {
+    "baseline": 1.0,
+    "enhanced": 1.0
+  },
+  "Chuck will Widow": {
+    "baseline": 0.6,
+    "enhanced": 0.8666666666666667
+  },
+  "Crested Auklet": {
+    "baseline": 0.42857142857142855,
+    "enhanced": 0.5714285714285714
+  },
+  "Eastern Towhee": {
+    "baseline": 0.9333333333333333,
+    "enhanced": 0.9333333333333333
+  },
+  "Fish Crow": {
+    "baseline": 0.4,
+    "enhanced": 0.4666666666666667
+  },
+  "Gray Catbird": {
+    "baseline": 0.9333333333333333,
+    "enhanced": 0.8666666666666667
+  },
+  "Groove billed Ani": {
+    "baseline": 0.13333333333333333,
+    "enhanced": 0.4
+  },
+  "Indigo Bunting": {
+    "baseline": 0.8666666666666667,
+    "enhanced": 0.8666666666666667
+  },
+  "Laysan Albatross": {
+    "baseline": 0.26666666666666666,
+    "enhanced": 0.4666666666666667
+  },
+  "Lazuli Bunting": {
+    "baseline": 0.8666666666666667,
+    "enhanced": 0.9333333333333333
+  },
+  "Least Auklet": {
+    "baseline": 0.5454545454545454,
+    "enhanced": 0.7272727272727273
+  },
+  "Painted Bunting": {
+    "baseline": 1.0,
+    "enhanced": 0.9333333333333333
+  },
+  "Parakeet Auklet": {
+    "baseline": 0.2,
+    "enhanced": 0.13333333333333333
+  },
+  "Pelagic Cormorant": {
+    "baseline": 0.6666666666666666,
+    "enhanced": 0.7333333333333333
+  },
+  "Red faced Cormorant": {
+    "baseline": 0.26666666666666666,
+    "enhanced": 0.0
+  },
+  "Red winged Blackbird": {
+    "baseline": 0.6666666666666666,
+    "enhanced": 0.7333333333333333
+  },
+  "Rhinoceros Auklet": {
+    "baseline": 0.06666666666666667,
+    "enhanced": 0.06666666666666667
+  },
+  "Rusty Blackbird": {
+    "baseline": 0.5333333333333333,
+    "enhanced": 0.6
+  },
+  "Shiny Cowbird": {
+    "baseline": 0.26666666666666666,
+    "enhanced": 0.4666666666666667
+  },
+  "Sooty Albatross": {
+    "baseline": 0.6666666666666666,
+    "enhanced": 0.6666666666666666
+  },
+  "Spotted Catbird": {
+    "baseline": 0.6,
+    "enhanced": 0.9333333333333333
+  },
+  "Yellow breasted Chat": {
+    "baseline": 0.8666666666666667,
+    "enhanced": 1.0
+  },
+  "Yellow headed Blackbird": {
+    "baseline": 0.8,
+    "enhanced": 0.8666666666666667
+  }
+}
