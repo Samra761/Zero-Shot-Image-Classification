@@ -1,6 +1,6 @@
 # Zero-Shot Fine-Grained Bird Classification with LLM-Generated Semantic Descriptions
 
-ITSOLERA ML Internship final project. Investigates whether an LLM can automatically generate class-discriminative visual descriptions that improve zero-shot image classification, replacing manually annotated attributes.
+ITSOLERA ML Internship 3rd project. Investigates whether an LLM can automatically generate class-discriminative visual descriptions that improve zero-shot image classification, replacing manually annotated attributes.
 
 ## Overview
 
