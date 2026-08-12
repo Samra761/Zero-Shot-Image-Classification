@@ -195,6 +195,12 @@ This is the main positive result of the experiment.
 | Raw LLM descriptions | 179/445 | **40.22%** | **−17.98 pp** |
 | Caption-formatted LLM descriptions | 276/445 | **62.02%** | **+3.82 pp** |
 
+### Confusion Matrices
+
+The following figure compares the baseline and caption-formatted LLM-description classifiers across the 30 bird classes.
+
+![Baseline vs. Enhanced Confusion Matrices](confusion_matrices.png)
+
 ### Main finding
 
 The experiment shows that **the way LLM-generated semantic information is integrated into CLIP matters substantially**.
